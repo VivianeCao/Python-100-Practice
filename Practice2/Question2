@@ -1,0 +1,16 @@
+Question: The bonus paid by the company is based on the profit.
+For profits (I) below or equal to $100,000, the bonus is subject to a 10% contribution.
+
+10% on the portion below $100,000 and 7.5% on the portion above $100,000 when profits are above $100,000 and below $200,000; 5% on the portion above $200,000 when profits are between $200,000 and $400,000
+
+
+3% on the portion above $400,000 when between $400,000 and $600,000
+
+1.5% on any part above $600,000 between $600,000 and $1,000,000 and 1% on any part above $1,000,000
+
+
+Enter the profit for the month, I, from the keyboard and find the total number of bonuses due?
+
+
+
+Thinking: Please use the number axis to divide and locate
