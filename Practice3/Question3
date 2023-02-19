@@ -1,0 +1,12 @@
+Question: An integer which when added to 100 is a perfect square number and when added to 168 is another perfect square number.
+
+Thinking:
+Suppose the number is x.
+1. Then: x + 100 = n2, x + 100 + 168 = m2
+2. Calculate the equation: m2 - n2 = (m + n)(m - n) = 168
+3. Set: m + n = i, m - n = j, i * j = 168, i and j are at least one even number
+4. We have: m = (i + j) / 2, n = (i - j) / 2, i and j are either both even or odd.
+5. It follows from 3 and 4 that i and j are both even numbers greater than or equal to 2.
+6. Since i * j = 168 and j >= 2, then 1 < i < 168 / 2 + 1.
+7. Next, loop through all the numbers of i.
+
