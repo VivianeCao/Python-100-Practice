@@ -1,0 +1,4 @@
+Question:Input three integers x,y,z, please output the three numbers from smallest to largest.
+
+Thinking: We find a way to put the smallest number to x. First we compare x with y. If x>y then we swap the values of x and y. Then we compare x with z. If x>z then we swap the values of x and z so that we can make x the smallest.
+
