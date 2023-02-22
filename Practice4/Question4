@@ -1,0 +1,3 @@
+Question: Enter a day of a month in a certain year and determine what day of the year it is?
+
+Thinking:  In the case of 5 March, the first two months should be added together and then 5 days added, i.e. the first day of the year, in special cases, leap years and when the input month is greater than 2, an extra day should be considered.
