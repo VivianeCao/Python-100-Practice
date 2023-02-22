@@ -1,0 +1,5 @@
+Question:Copy data from one list to another.
+
+Thinking: Program analysis: Use list[:].
+
+
