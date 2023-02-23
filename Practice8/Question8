@@ -1,0 +1,3 @@
+Question: Output 9*9 multiplication table.
+
+Thinking: Lines and columns are considered, with 9 rows and 9 columns, i controls the rows and j controls the columns
