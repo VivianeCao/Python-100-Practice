@@ -1,0 +1,3 @@
+Question: Pause output for one second
+
+Think: use the sleep() function of the time module.
