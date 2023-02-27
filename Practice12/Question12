@@ -1,0 +1,4 @@
+Question: Determine how many prime numbers there are between 101 and 200, and output all prime numbers.
+
+
+Thinking: To determine a prime number: remove 2 from sqrt(the number) by a number respectively, if it can be divided by an integer, then the number is not prime, otherwise it is prime.
