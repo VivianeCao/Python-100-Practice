@@ -1,0 +1,3 @@
+Question: Print out all the 'daffodil numbers', which are three-digit numbers where the sum of the cubes of the digits equals the number itself. For example, 153 is a "daffodil number" because 153 = 1 cubic + 5 cubic + 3 cubic.
+
+Thinking: Use a for loop to control 100-999 numbers, decomposing each number into digits, decimal places and hundreds.
