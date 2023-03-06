@@ -1,0 +1,10 @@
+Question: Decompose a positive integer into prime factors. Example: Enter 90, print 90 = 2*3*3*5.
+
+
+Thinking:To factorize n, you should first find the smallest prime number, k, and then complete the following steps.
+
+(1) If this prime number is exactly equal to n, then the process of decomposing prime factors is complete and can be printed out.
+
+(2) If n <> k, but n is divisible by k, print out the value of k and divide n by k as the quotient of the new positive integer you n, repeating the first step.
+
+(3) If n is not divisible by k, then use k+1 as the value of k and repeat the first step.
