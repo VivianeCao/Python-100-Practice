@@ -1,0 +1,2 @@
+Topic: Use the nesting of conditional operators to complete this problem: students with academic scores >= 90 are represented by A, those with scores between 60 and 89 are represented by B, and those with scores below 60 are represented by C.
+Thinking: Program Analysis: (a>b) ? a:b This is a basic example of a conditional operator.
